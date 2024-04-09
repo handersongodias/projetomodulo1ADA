@@ -9,3 +9,4 @@
 >// A Aplicação Received, consome os dados enviados pela Send, e caso seja identificado fraude , é gerado arquivo e enviado para o Minio. <br>
 
 >// As aplicações só serão incializadas apos os serviços RabbitMQ , Redis e Minio estiverem iniciados e operacionais.<br>
+>// Aplicação simula envio de transações de credito e avalia se há fraudes, atraves da analise dos valores enviados nas transações, o dados são carregados do arquivo list.json.<br>
