@@ -1,0 +1,8 @@
+C:\ADA\CursoADA\Modulo2\ProjetoADAModulo2C#\Send\bin\Release\net8.0\publish\Send.exe
+C:\ADA\CursoADA\Modulo2\ProjetoADAModulo2C#\Send\bin\Release\net8.0\publish\fileJson\list.json
+C:\ADA\CursoADA\Modulo2\ProjetoADAModulo2C#\Send\bin\Release\net8.0\publish\Send.dll
+C:\ADA\CursoADA\Modulo2\ProjetoADAModulo2C#\Send\bin\Release\net8.0\publish\Send.deps.json
+C:\ADA\CursoADA\Modulo2\ProjetoADAModulo2C#\Send\bin\Release\net8.0\publish\Send.runtimeconfig.json
+C:\ADA\CursoADA\Modulo2\ProjetoADAModulo2C#\Send\bin\Release\net8.0\publish\Send.pdb
+C:\ADA\CursoADA\Modulo2\ProjetoADAModulo2C#\Send\bin\Release\net8.0\publish\Newtonsoft.Json.dll
+C:\ADA\CursoADA\Modulo2\ProjetoADAModulo2C#\Send\bin\Release\net8.0\publish\RabbitMQ.Client.dll
