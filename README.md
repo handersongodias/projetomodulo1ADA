@@ -6,6 +6,6 @@
 >// apos os serviços serem iniciados, verificar os logs do Send e Received , la consta as transações de envio e consumo. <br>
 
 >// A Aplicação Send termina apos enviar os dados do arquivo list.json. <br>
->// A Aplicação Received, consome os dados enviados pela Send, e caso seja identificado fraude , é gerado arquivos e enviados para o Minio. <br>
+>// A Aplicação Received, consome os dados enviados pela Send, e caso seja identificado fraude , é gerado arquivo e enviado para o Minio. <br>
 
 >// As aplicações só serão incializadas apos os serviços RabbitMQ , Redis e Minio estiverem iniciados e operacionais.<br>
